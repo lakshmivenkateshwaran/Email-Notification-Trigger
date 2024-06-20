@@ -51,4 +51,6 @@ This Python script automates the process of sending notifications for new, unsee
 
 Run the script using Python:
 ```bash
-python main.py
+python script1.py #If you want to add single email
+or
+python script2.py #If you want to add multiple emails
